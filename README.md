@@ -49,10 +49,3 @@ Bu uygulama **Spring Boot (Java)** ve **React** teknolojileriyle geliştirilmiş
 
 ---
 
-## ⚙️ Kurulum Adımları
-
-### 1️⃣ Depoyu Klonla
-
-```bash
-git clone https://github.com/erogluusamett/SehrinHikayesi.git
-cd SehrinHikayesi
