@@ -28,7 +28,6 @@ Bu uygulama **Spring Boot (Java)** ve **React** teknolojileriyle geliştirilmiş
 |------------------|----------------|-------------|
 | ![map](https://via.placeholder.com/300x200.png?text=Map+Page) | ![post](https://via.placeholder.com/300x200.png?text=Add+Post) | ![comment](https://via.placeholder.com/300x200.png?text=Comments) |
 
-> *Bu görselleri kendi ekran görüntülerinle değiştirmeyi unutma.*
 
 ---
 
